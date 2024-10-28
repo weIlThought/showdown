@@ -1,7 +1,7 @@
 BATTLE_BOT=safest
 WEBSOCKET_URI=wss://sim3.psim.us/showdown/websocket
-PS_USERNAME=Senyn
-PS_PASSWORD=Donja0907_
+PS_USERNAME=
+PS_PASSWORD=
 BOT_MODE=SEARCH_LADDER
 POKEMON_MODE=gen7ou
 TEAM_NAME=gen3\ou\rush
